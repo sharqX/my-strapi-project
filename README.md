@@ -1,23 +1,11 @@
-# 🚀 Getting started with Strapi
+# 🚀 [Task 2] Manual Deployment of Strapi Application
 
+-   Configured EC2 instance ✅
+    - Type: t3.small
+- Deployed Strapi Application on the instance ✅
+- Implemented Github Actions for CI/CD ✅
 
-
-Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/dev-docs/cli) (CLI) which lets you scaffold and manage your project in seconds.
-
-### `develop`
-
-Start your Strapi application with autoReload enabled. [Learn more](https://docs.strapi.io/dev-docs/cli#strapi-develop)
-
-```
-npm run develop
-
-# or
-yarn develop
-```
-
-### `Run`
-
-To run locally
+## `To run locally`
 
 ```
 git clone https://github.com/sharqX/my-strapi-project.git
